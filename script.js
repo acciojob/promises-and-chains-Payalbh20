@@ -1,4 +1,4 @@
-
+//your JS code here. If required.
 //your JS code here. If required.
  const form = document.querySelector('#myForm');
   const nameInput = document.querySelector('#name');
